@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+📊 Marketing Dashboard
+A modern, responsive marketing analytics dashboard built with React and Recharts. Features real-time data visualization, campaign management, and comprehensive analytics with dark/light mode support.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e46593c-90a9-4e67-8514-47ce2438988f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df8ff73c-9629-4255-ba1c-403959e9e537" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+✨ Features
+🎯 Core Functionality
 
-In the project directory, you can run:
+Real-time Data Updates - Automatic refresh every 30 seconds
+Interactive Charts - Area, bar, and pie charts with hover tooltips
+Campaign Management - Full CRUD operations for marketing campaigns
+Advanced Filtering - Search, sort, and pagination
+CSV Export - Download campaign data
+Responsive Design - Works on desktop, tablet, and mobile
 
-### `npm start`
+🎨 UI/UX Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Dark/Light Mode Toggle - Persistent theme preference
+Collapsible Sidebar - Responsive navigation
+Smooth Animations - Hover effects and transitions
+Modern Design - Clean, professional interface
+Loading States - Skeleton animations
+Status Badges - Color-coded campaign status
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📱 Navigation Sections
 
-### `npm test`
+📊 Dashboard - Overview with metrics and charts
+🎯 Campaigns - Campaign management table
+📈 Analytics - Detailed performance metrics
+📋 Reports - Report generation interface
+⚙️ Settings - Dashboard configuration
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🚀 Quick Start
+Prerequisites
 
-### `npm run build`
+Node.js 14+ and npm/yarn
+Modern web browser
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📦 Dependencies
+Core Dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React ^18.x - UI library
+Recharts ^2.x - Chart library
+Lucide React ^0.263.1 - Icon library
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Styling
 
-### `npm run eject`
+Tailwind CSS ^3.x - Utility-first CSS framework
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🏗️ Project Structure
+src/
+├── App.js              # Main dashboard component
+├── App.css             # Component styles
+├── index.css           # Global styles
+└── index.js            # Entry point
