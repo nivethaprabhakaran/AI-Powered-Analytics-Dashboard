@@ -1,7 +1,8 @@
 📊 Marketing Dashboard
 A modern, responsive marketing analytics dashboard built with React and Recharts. Features real-time data visualization, campaign management, and comprehensive analytics with dark/light mode support.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e46593c-90a9-4e67-8514-47ce2438988f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df8ff73c-9629-4255-ba1c-403959e9e537" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf2e4d66-c15f-4a61-bc5c-7817e7c978b5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fe66aa1-664b-45e3-b3f5-459923460297" />
+
 
 
 ✨ Features
